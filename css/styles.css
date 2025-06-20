@@ -165,6 +165,7 @@ img {
    display: flex;
     padding: 120px 0;
     gap: 24px;
+    width: calc((100% - 3*24px)/4);
    
 }
 
