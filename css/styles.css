@@ -293,7 +293,6 @@ img {
 }
 
 .fourth-section-list-item {
-    display: flex;
     width: calc((100% – 48px) / 3);
 }
 .fourth-section-list-paragraph {
@@ -304,6 +303,7 @@ img {
 }
 .footer {
     background-color: #2e2f42;
+    padding: 100px 0;
     }
 .footer-logo {
     font-family: "Raleway", sans-serif;
@@ -313,6 +313,8 @@ img {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    margin-bottom: 16px;
+
 }
     
 .footer-logo-studio {
@@ -322,4 +324,5 @@ img {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+    max-width: 264px;
 }
