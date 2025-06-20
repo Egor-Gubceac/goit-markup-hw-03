@@ -162,15 +162,20 @@ img {
  }
 
 .second-section {
-    
+    padding: 120px 0;
     
    
 }
 
 .second-section-content {
-    display: flex;
+    
 
     
+}
+
+.second-section-list {
+    display: flex;
+    gap: 24px;
 }
 
 .second-section-list-item {
