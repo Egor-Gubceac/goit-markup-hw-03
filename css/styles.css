@@ -274,9 +274,12 @@ img {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    width: calc((100% – 48px) / 3);
+    }
 
+.fourth-section-list-item {
+    width: calc((100% – 48px) / 3);
 }
+
 .fourth-section-list-title {
     font-weight: 500;
     font-size: 20px;
