@@ -17,6 +17,10 @@ h1, h2, h3, h4, h5, h6, p {
     margin: 0;
 }
 
+img {
+    display: block;
+}
+
 .container {
     max-width: 1158px;
     padding: 0 15px;
@@ -93,6 +97,7 @@ h1, h2, h3, h4, h5, h6, p {
     color: #404bbf;
 }
 .hero-section {
+    
     background-color: #2e2f42;
     height: 600px;
 }
