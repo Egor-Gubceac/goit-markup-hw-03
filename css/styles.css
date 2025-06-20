@@ -97,14 +97,11 @@ img {
     color: #404bbf;
 }
 .hero-section {
-    
+    padding: 188px 0;
     background-color: #2e2f42;
     height: 600px;
 }
 
-.hero-text-container {
-    padding: 188px 0;
-}
 
 .hero-text {
     display: block;
