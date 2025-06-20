@@ -162,19 +162,20 @@ img {
  }
 
 .second-section {
-   display: flex;
-    padding: 120px 0;
-    gap: 24px;
-    width: calc((100% - 3*24px)/4);
+    
+    
    
 }
 
 .second-section-content {
-    padding: 120px 0
+    display: flex;
+
+    
 }
 
 .second-section-list-item {
     width: 264px;
+    flex-basis: calc((100% - 72px) / 4);
 }
 
 .second-section-title {
