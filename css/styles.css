@@ -99,7 +99,6 @@ img {
 .hero-section {
     padding: 188px 0;
     background-color: #2e2f42;
-    height: 600px;
 }
 
 
@@ -208,7 +207,6 @@ img {
 
 .team-list {
     display: flex;
-    padding-bottom: 120px;
     gap: 24px;
     }
 
